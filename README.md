@@ -94,6 +94,13 @@ See [LICENSE](./LICENSE) for more.
 
 ---
 
+### 💡 Our Philosophy
+Aether AI Modal is not designed to replace developers — it's crafted to empower them.
+
+Our mission is to build a powerful, open, and privacy-respecting assistant that acts as a complementary tool to the developer's workflow. Whether it's generating code snippets, analyzing bugs, suggesting architecture, or automating repetitive tasks, Aether AI Modal is here to support human creativity — not replace it.
+
+We believe the future of development is collaborative: developers + AI = superhuman productivity. And we're making that future open-source.
+
 ### 🌐 Join the Aetherverse
 
 We’re building a full ecosystem of secure, open, and privacy-focused tools:
