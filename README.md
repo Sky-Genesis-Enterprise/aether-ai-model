@@ -79,20 +79,6 @@ Aether AI Modal is designed with security in mind:
 - Optional HTTPS and authentication layers
 - Built-in cryptographic message signing (via Python `cryptography` lib)
 
-## 🤝 Contributing
-
-We welcome contributors of all levels! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) file to get started.
-
-- Report bugs in the [Issues](https://github.com/Sky-Genesis-Enterprise/aether-ai-model/issues)
-- Submit PRs for features, bugfixes, or documentation improvements
-
-## 📄 License
-
-MIT License © 2025 [Sky Genesis Enterprise](https://skygenesis.io)
-
-See [LICENSE](./LICENSE) for more.
-
----
 
 ### 💡 Our Philosophy
 Aether AI Modal is not designed to replace developers — it's crafted to empower them.
@@ -112,4 +98,16 @@ We’re building a full ecosystem of secure, open, and privacy-focused tools:
 
 Follow our journey, contribute, and help shape the future of open AI.
 
-> _“AI belongs to everyone.” — The Sky Genesis Enterprise Team
+
+## 🤝 Contributing
+
+We welcome contributors of all levels! Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) file to get started.
+
+- Report bugs in the [Issues](https://github.com/Sky-Genesis-Enterprise/aether-ai-model/issues)
+- Submit PRs for features, bugfixes, or documentation improvements
+
+## 📄 License
+
+MIT License © 2025 [Sky Genesis Enterprise](https://skygenesis.io)
+
+See [LICENSE](./LICENSE) for more.
