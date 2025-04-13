@@ -108,6 +108,6 @@ We welcome contributors of all levels! Please read the [CONTRIBUTING.md](./CONTR
 
 ## 📄 License
 
-MIT License © 2025 [Sky Genesis Enterprise](https://skygenesis.io)
+MIT License © 2025 [Sky Genesis Enterprise](https://skygenesisenterprise.com)
 
 See [LICENSE](./LICENSE) for more.
