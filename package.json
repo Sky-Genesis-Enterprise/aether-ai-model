@@ -7,13 +7,13 @@
   "type": "module",
   "version": "0.0.7",
   "author": {
-    "name": "bolt.diy team",
-    "email": "maintainers@bolt.diy"
+    "name": "Sky Genesis Enterprise",
+    "email": "contact@skygenesisenterprise.com"
   },
   "scripts": {
     "deploy": "npm run build && wrangler pages deploy",
-    "build": "remix vite:build",
-    "dev": "node pre-start.cjs  && remix vite:dev",
+    "build": "node --max-old-space-size=4096 node_modules/.bin/remix vite:build",
+    "dev": "node pre-start.cjs && remix vite:dev",
     "test": "vitest --run",
     "test:watch": "vitest",
     "lint": "eslint --cache --cache-location ./node_modules/.cache/eslint app",
@@ -199,6 +199,7 @@
     "vite": "^5.4.11",
     "vite-plugin-copy": "^0.1.6",
     "vite-plugin-optimize-css-modules": "^1.1.0",
+    "vite-plugin-singlefile": "^2.2.0",
     "vite-tsconfig-paths": "^4.3.2",
     "vitest": "^3.1.1",
     "wrangler": "^4.5.1"
