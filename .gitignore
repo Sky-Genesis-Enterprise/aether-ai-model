@@ -93,3 +93,9 @@ target/
 # Custom
 custom_folder/
 custom_file.*
+
+# Apache file
+*.htaccess
+
+# Nginx file 
+*.conf

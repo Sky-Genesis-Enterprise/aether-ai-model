@@ -1,5 +1,5 @@
-appId: com.stackblitz.bolt.diy
-productName: Bolt Local
+appId: ai.skygenesisenterprise.com
+productName: Aether AI Modal
 directories:
   buildResources: build
   output: dist
@@ -57,7 +57,7 @@ npmRebuild: false
 publish:
   provider: github
   owner: Derek-X-Wang
-  repo: bolt.local
+  repo: aether-ai-model.local
   private: true
   releaseType: release
 
